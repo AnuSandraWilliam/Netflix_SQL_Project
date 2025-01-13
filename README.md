@@ -217,3 +217,9 @@ GROUP BY category;
 
 This analysis provides a comprehensive view of Netflix's content and can help inform content strategy and decision-making.
 
+## 📞 Contact Details
+
+- **Email**: [anusandrawilliam@gmail.com](mailto:anusandrawilliam@gmail.com)
+- **LinkedIn**: [Anu Sandra William](https://www.linkedin.com/in/anu-sandra-william-713567333/)
+
+
