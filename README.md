@@ -190,8 +190,7 @@ ORDER BY no_of_times_actor_appeared DESC;
 ```
 #### Objective: Identify the top 10 actors with the most appearances in Indian-produced movies.
 
-### 15. Categorize the content based on the presence of the keywords 'kill' and 'violence' in the description field. Label content contatining these keywords as 'Not Kid Friendly' and all other 
-### content as 'Kid Friendly'. Count how many items fall into each category.
+### 15. Categorize the content based on the presence of the keywords 'kill' and 'violence' in the description field. Label content contatining these keywords as 'Not Kid Friendly' and all other content as 'Kid Friendly'. Count how many items fall into each category.
 
 ```sql
 WITH new_table AS
